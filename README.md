@@ -30,8 +30,6 @@
 <br />
 <br />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaeuk520)](https://solved.ac/jaeuk520)
-
 ![jaeuk520's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeuk520&include_all_commits=true&show_icons=true&theme=dracula&show=reviews,prs_merged&hide=issues)
 ![jaeuk520's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeuk520&show_icons=true&show_owner=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook&include_all_commits=true)
 
